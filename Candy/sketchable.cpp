@@ -1,7 +1,6 @@
 /*
 Date : 22/08/2022
-Author : Delaude Julien
-N°mat : 000487533
+Author : Delaude Jul
 */
 class Sketchable {
  public:
